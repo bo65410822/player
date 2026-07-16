@@ -1,0 +1,19 @@
+*.iml
+.gradle/
+.DS_Store
+local.properties
+/local.properties
+
+# Build outputs (all modules)
+build/
+**/build/
+/captures
+.externalNativeBuild
+.cxx/
+
+# Android Studio / IDE
+.idea/
+
+# Project-local (do not publish)
+.ai/
+docs/
